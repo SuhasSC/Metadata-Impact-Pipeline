@@ -1,0 +1,6 @@
+query,title,description,tags,metadata_quality,impact_score
+healthcare,AI in Healthcare,Using artificial intelligence for early disease detection and diagnosis,"healthcare,AI,ML",0.92,N/A
+education,NLP in Education,Natural language processing for automating grading and feedback in education,"NLP,education,automation",0.78,N/A
+energy,Renewable Energy Analytics,Using ML models to predict and optimize solar and wind power generation,"energy,renewable,ML",0.8,N/A
+healthcare,AI in Healthcare,Using artificial intelligence for early disease detection and diagnosis,"healthcare,AI,ML",0.92,N/A
+AI,AI in Healthcare,Using artificial intelligence for early disease detection and diagnosis,"healthcare,AI,ML",0.92,N/A

@@ -1,0 +1,6 @@
+id,title,description,tags,metadata_quality
+1,AI in Healthcare,Using artificial intelligence for early disease detection and diagnosis,"healthcare,AI,ML",0.92
+2,Smart Agriculture,IoT sensors and data analytics to enhance crop yield and reduce resource usage,"agriculture,IoT,sensors",0.85
+3,NLP in Education,Natural language processing for automating grading and feedback in education,"NLP,education,automation",0.78
+4,Cybersecurity Trends,Trends and technologies for detecting and preventing cyber threats,"security,cybersecurity,AI",0.88
+5,Renewable Energy Analytics,Using ML models to predict and optimize solar and wind power generation,"energy,renewable,ML",0.80
